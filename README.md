@@ -1,2 +1,3 @@
 # abk-rzungen
-abkürzungen
+readme für abkürzungen in mehreren unterlagen.  
+
