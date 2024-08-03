@@ -2,5 +2,6 @@
 
 [Click here for the English version.](https://github.com/whoisheartbreak/abbreviations)  
   
-readme für abkürzungen in mehreren unterlagen.  
+readme für abkürzungen in mehreren unterlagen.   
 
+ECU: das Steuergerät (Electronic Control Unit).;
