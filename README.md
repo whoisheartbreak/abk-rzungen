@@ -1,0 +1,2 @@
+# abk-rzungen
+abkürzungen
