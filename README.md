@@ -18,7 +18,7 @@ readme für abkürzungen in mehreren unterlagen.
 | __EthIf__    | Ethernet-Schnittstelle (Ethernet Interface)                                                         |
 | __TCP/IP__   | Übertragungssteuerungsprotokoll/Internetprotokoll (Transfer Control Protocol/ Internet Protocol)    |
 | __UDP__      | Benutzer-Datagramm-Protokoll (Unified Datagram Packet)                                               |
-| __SoAd__     | Socket-Adapter (Socket Adapter)                                                                     |
+| __SoAd__     | Socket-Adapter                                                                     |
 | __DoIP__     | Diagnose über Internetprotokoll (Diagnostic over Internet Protocol)                                 |
 | __Comm__     | Kommunikationsschicht (Communications (manager) Layer)                                              |
 | __RTE__      | Laufzeitumgebungsschicht (Run Time Environment Layer)                                               |
