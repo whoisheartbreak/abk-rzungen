@@ -10,7 +10,7 @@ readme für abkürzungen in mehreren unterlagen.
 |--------------|-----------------------------------------------------------------------------------------------------|
 | __ECU__      | Steuergerät (Electronic Control Unit)                                                |
 | __XML__      | Erweiterbare Auszeichnungssprache (Extensible Markup Language)                                       |
-| __SOK__      | Sichere On-Board-Kommunikation (Secure On-board Communication)                                      |
+| __SOK__      | Sichere On-Board-Kommunikation                                     |
 | __HARA__     | Gefahrenanalyse und Risikoabschätzung (Hazard Analysis and Risk Assessment)                          |
 | __MCAL__     | Mikrocontroller-Abstraktionsschicht (MicroController Abstraction Layer)                              |
 | __EthDrv__   | Ethernet-Treiber (Ethernet Driver)                                                                  |
