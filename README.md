@@ -29,7 +29,7 @@ readme für abkürzungen in mehreren unterlagen.
 | __CAN__      | Controller Area Network (ein Kommunikationsbusprotokoll) (Controller Area Network (a communication bus protocol)) |
 | __FR__       | FlexRay-Kommunikationsprotokoll (Flex Ray communication protocol)                                    |
 | __Eth__      | Automotive Ethernet-Kommunikationsprotokoll (Automotive Ethernet communication protocol)             |
-| __LIN__      | Lokales Interconnect-Netzwerk (Kommunikationsbusprotokoll) (Local Interconnect Network (a communication bus protocol)) |
+| __LIN__      | Lokales Interconnect-Netzwerk (Kommunikationsbusprotokoll) (Local Interconnect Network) |
 | __DE__       | DEutschland                                                         |
 | __IN__       | Indien (India)                                                                                      |
 | __CGPA__     | Kumulativer Notendurchschnitt (Cumulative Grade Point Average)                                       |
