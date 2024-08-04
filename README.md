@@ -29,8 +29,8 @@ readme für abkürzungen in mehreren unterlagen.
 | __CAN__      | Controller Area Network (ein Kommunikationsbusprotokoll) (Controller Area Network (a communication bus protocol)) |
 | __FR__       | FlexRay-Kommunikationsprotokoll (Flex Ray communication protocol)                                    |
 | __Eth__      | Automotive Ethernet-Kommunikationsprotokoll (Automotive Ethernet communication protocol)             |
-| __LIN__      | Lokales Interconnect-Netzwerk (ein Kommunikationsbusprotokoll) (Local Interconnect Network (a communication bus protocol)) |
-| __DE__       | Deutschland (German/ Germany (DEutschland))                                                         |
+| __LIN__      | Lokales Interconnect-Netzwerk (Kommunikationsbusprotokoll) (Local Interconnect Network (a communication bus protocol)) |
+| __DE__       | DEutschland                                                         |
 | __IN__       | Indien (India)                                                                                      |
 | __CGPA__     | Kumulativer Notendurchschnitt (Cumulative Grade Point Average)                                       |
 | __MoI__      | Unterrichtssprache (Medium of Instruction)                                                          |
@@ -55,7 +55,7 @@ readme für abkürzungen in mehreren unterlagen.
 | __RTRT__     | Rational Test Real Time (by IBM)                                                                    |
 | __EthSwt__   | Ethernet-Switch (Ethernet Switch)                                                                  |
 | __XCP__      | Universal Measurement and Calibration Protocol                                                     |
-| __CCP__      | CAN (Controller Area Network) Kalibrierungsprotokoll (CAN (Controller Area Network) Calibration Protocol) |
+| __CCP__      | CAN (Controller Area Network) Kalibrierungsprotokoll (CAN Calibration Protocol) |
 | __JTAG__     | Joint Test Action Group                                                                             |
 | __FMEA__     | Fehler-Möglichkeits- und Einfluss-Analyse (Failure Mode and Effect Analysis)                        |
 | __DMAIC__    | Definieren, Messen, Analysieren, Verbessern, Kontrollieren (Define Measure Analyse Improve Control) |
@@ -63,7 +63,7 @@ readme für abkürzungen in mehreren unterlagen.
 | __R&D__      | Forschung und Entwicklung (Research and Development)                                                |
 | __RS232__    | Empfohlener Standard 232 (Recommended Standard 232)                                                 |
 | __FPGA__     | Feldprogrammierbare Gatteranordnung (Field Programmable Gate Array)                                 |
-| __MISRA__    | Motor Industry Software Reliability Association (Software-Entwicklungsrichtlinien) (Motor Industry Software Reliability Association (software development guidelines)) |
+| __MISRA__    | Motor Industry Software Reliability Association (Software-Entwicklungsrichtlinien) |
 | __TARA__     | Bedrohungsanalyse und Abhilfemaßnahmen (ISO 21434) (Threat Assessment and Remediation Analysis (ISO 21434)) |
 | __QT__       | Plattformübergreifendes Anwendungsentwicklungs-Framework (Cross platform application development framework) |
 | __HARA__     | Gefahrenanalyse und Risikoabschätzung (Hazard Analysis and Risk Assessment)                         |
